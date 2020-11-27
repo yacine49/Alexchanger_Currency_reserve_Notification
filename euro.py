@@ -1,7 +1,5 @@
 from bs4 import BeautifulSoup
-import os,time,json
 import schedule
-from fbchat import Client;from fbchat.models import *
 import requests as res
 from notify_run import Notify
 
